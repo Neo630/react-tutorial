@@ -1,0 +1,7 @@
+{
+    "items": [
+        { "id": 1, "checked": false, "iten": "Almonds" },
+        { "id": 2, "checked": false, "iten": "Milk" },
+        { "id": 3, "checked": false, "iten": "Bread" }
+    ]
+}
